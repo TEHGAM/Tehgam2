@@ -1,0 +1,3 @@
+allowFunctionsLog = 0;
+disableChannels[]={0,2};
+showUAVFeed = 1;
